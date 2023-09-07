@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dados aluno
 Faça a edição dos dados do arquivo dados.txt. 
 Fique a vontade se não quiser responder todos os itens. 
@@ -14,4 +15,7 @@ Fique a vontade se não quiser responder todos os itens.
 
 -No commit coloque a mensagem: “Modificando o arquivo de dados”.
 
--Compertilhe seu github conosco em nossa plataforma;
+-Compertilhe seu github conosco em nossa plataforma.
+=======
+# dados-aluno-ebac-
+>>>>>>> 438d05286355c4f94f23417cef51c71798916919
