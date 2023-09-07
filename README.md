@@ -13,7 +13,7 @@ Fique a vontade se não quiser responder todos os itens.
 
 -Faça o commit em seu repositório do github;
 
--No commit coloque a mensagem: “Modificando o arquivo de dados”.
+-No commit coloque a mensagem: “Modificando o arquivo de dados”...
 
 -Compertilhe seu github conosco em nossa plataforma.
 =======
