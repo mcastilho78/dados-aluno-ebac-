@@ -28,4 +28,11 @@ context('Funcionalidade Login', () => {
         cy.get('.woocommerce-error > li').should('contain' , 'Endereço de e-mail desconhecido. Verifique novamente ou tente seu nome de usuário. ')
     })
 
+    it.only('Deve exibir uma mensagem de erro ao inserir senha inválida', () => {
+        cy.get('#username').type('aluno_ebac@teste.com')
+        cy.get('#password').type('teste@teste')
+        cy.get('.woocommerce-form > .button').click()
+
+        cy.get('.woocommerce-error > li').should('contain' , 'Erro: a senha')
+    })
 })
