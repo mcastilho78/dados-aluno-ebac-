@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Marcelo Castilho
+-Profissão: Gerente de Projetos de TI
+-Cidade: Campinas/SP
+-O que faz nas horas vaga: Leio livros e toco violão
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito, aprendendo coisas novas e está me ajudando a gerenciar melhor o meu ciclo de desenvolvimento de software, principalmente com o time de testes.
+-Feedback sobre a plataforma de estudo da EBAC: É fantástica a plataforma. Invisti bastante em cursos mais baratos e este investimento na EBAC está valendo a pena. Show de bola!!!
+
+Obrigado!!!
+
+
