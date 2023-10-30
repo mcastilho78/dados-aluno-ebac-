@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Validação de Número</title>
+</head>
+<body>
+    <h1>Validação de Número</h1>
+    <form>
+        <label for="numero">Digite um número:</label>
+        <input type="text" id="numero" name="numero">
+        <button type="button" onclick="validarNumero()">Verificar</button>
+    </form>
+    <p id="resultado"></p>
+
+    <script>
+        function validarNumero() {
+            var inputNumero = document.getElementById("numero").value;
+            var resultado = document.getElementById("resultado");
+
+            if (!isNaN(inputNumero)) {
+                resultado.innerHTML = "É um número!";
+            } else {
+                resultado.innerHTML = "Não é um número. Por favor, digite um número válido.";
+            }
+        }
+    </script>
+</body>
+</html>
